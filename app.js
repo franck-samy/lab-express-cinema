@@ -39,3 +39,5 @@ const index = require('./routes/index');
 app.use('/', index);
 
 module.exports = app;
+
+//app.listen(3001, () => console.log('My cinema lab project running on port 3001 🎧 🥁 🎸 🔊'));
